@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Unicase")
+
+.navbar-collapse{
+	background-color: blue;
+	color: white;
+	font-size: 30px;
+	margin: 5px;
+}
+.navbar-nav{
+	background-color: blue;
+	color: white;
+	position: fixed;
+}
+.jumbotron{
+	text-align: center;
+	background-image: url(foto4.jpg);
+	background-color: #E79DB4;
+	color: #1522EA;
+	min-height: 500px;
+	background-size: 100%;
+}
+.img-logo{
+	border-radius: 50%;
+	width:100%;
+}
+h1{
+	text-align: center;
+	border-top: -30px;
+	font-family: 'Cormorant Unicase', serif;
+}
+
+.img-fluid{ 
+	max-width: 100%; height: auto;
+}
+li-1{
+	list-style: none;
+	font-size: 20px;
+	text-align: justify;
+}
+li{
+	list-style: none;
+	font-size: 20px;
+}
+p{
+	text-align: justify;
+	font-size: 20px;
+}
+.row{
+	background: #C5E5EB;
+}
